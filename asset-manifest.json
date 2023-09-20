@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/time-app/static/js/main.946a4297.js",
+    "index.html": "/time-app/index.html",
+    "main.946a4297.js.map": "/time-app/static/js/main.946a4297.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.946a4297.js"
+  ]
+}
